@@ -4,26 +4,20 @@ Skills & Technologies:-
 
 
 Programming Languages:
-
 Python, Java, JavaScript, SQL, HTML/CSS
 
 Frameworks & Tools:
-
 VS code, React, Node.js, Intellij IDEA
 
 Databases:
-
 MySQL
 
 Version Control:
-
 Git, GitHub
 
 Operating Systems:
-
 Windows, macOS
 
 Concepts:
-
 Data Structures, Algorithms, Object-Oriented Programming (OOP), Web Development, Cloud Computing
 
